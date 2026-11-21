@@ -1,0 +1,68 @@
+{
+	"owner": "Likeremote-com-1-4M-job-board",
+	"repo": "Internships-Europe",
+	"campaign": "internships-europe",
+	"title": "Internships in Europe",
+	"bannerAlt": "Find your next internship in Europe on likeremote.com",
+	"intro": "Every internship in the UK, Germany and the rest of the EU that we find in 1.4M live jobs, in every industry, newest first. This list updates by itself every 6 hours.",
+	"sibling": {
+		"repo": "Internships-US",
+		"prompt": "In the US? See",
+		"label": "🇺🇸 Internships in the US (GitHub)"
+	},
+	"note": "Werkstudent roles sit in the Germany table.",
+	"regions": [
+		{
+			"key": "uk",
+			"heading": "United Kingdom",
+			"flag": "🇬🇧"
+		},
+		{
+			"key": "de",
+			"heading": "Germany",
+			"flag": "🇩🇪"
+		},
+		{
+			"key": "eu",
+			"heading": "Rest of the EU",
+			"flag": "🇪🇺"
+		}
+	],
+	"extension": {
+		"alt": "The Likeremote Chrome extension: one tap sends the application",
+		"line": "The free Likeremote Chrome extension fills the application from your resume and logs it in one tracker.",
+		"storeUrl": "https://chromewebstore.google.com/detail/mafigepobbpcbplggdjcjeabpjafcnig"
+	},
+	"about": {
+		"description": "Internships in the UK, Germany and the rest of the EU, every industry, newest first. Updated every 6 hours.",
+		"homepage": "https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-europe",
+		"topics": [
+			"internships",
+			"jobs",
+			"students",
+			"europe"
+		]
+	},
+	"countries": [
+		{
+			"flag": "🇬🇧",
+			"label": "United Kingdom",
+			"country": "UK"
+		},
+		{
+			"flag": "🇩🇪",
+			"label": "Germany",
+			"country": "DE"
+		},
+		{
+			"flag": "🇫🇷",
+			"label": "France",
+			"country": "FR"
+		},
+		{
+			"flag": "🇳🇱",
+			"label": "Netherlands",
+			"country": "NL"
+		}
+	]
+}
