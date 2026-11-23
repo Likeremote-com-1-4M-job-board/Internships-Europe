@@ -1,24 +1,24 @@
 {
 	"meta": {
 		"repo": "Likeremote-com-1-4M-job-board/Internships-Europe",
-		"generated_at": "2026-11-22T20:59:03.996Z",
-		"hash": "57cbba062de97b5b61f8636ebb66eeb4e6f38e7d3f8bac7f822be8c98a4916b6",
-		"open_total": 12912,
+		"generated_at": "2026-11-23T07:49:45.681Z",
+		"hash": "ebc80b84e2cccb06b6aa19c1770af2022ef9a8d01d57a096a48ec6b704d97172",
+		"open_total": 12820,
 		"regions": {
 			"uk": {
-				"feed_count": 921,
-				"listed": 921,
-				"closed": 51
+				"feed_count": 913,
+				"listed": 913,
+				"closed": 52
 			},
 			"de": {
-				"feed_count": 2813,
+				"feed_count": 2798,
 				"listed": 1000,
-				"closed": 30
+				"closed": 31
 			},
 			"eu": {
-				"feed_count": 9178,
+				"feed_count": 9109,
 				"listed": 1000,
-				"closed": 10
+				"closed": 14
 			}
 		}
 	},
@@ -7495,17 +7495,6 @@
 					"category": "marketing"
 				},
 				{
-					"slug": "clinical-trial-assistant-student-placement-2ba29907",
-					"company": "Jj",
-					"title": "Clinical Trial Assistant - Student Placement",
-					"city": null,
-					"country_code": "UK",
-					"work_mode": "Hybrid",
-					"salary": null,
-					"posted": "2026-10-09",
-					"category": "other"
-				},
-				{
 					"slug": "client-citi-research-summer-analyst-london-united-kingdom-6875a999",
 					"company": "Citibank, N.A. United Kingdom",
 					"title": "Client - Citi Research, Summer Analyst, London - United Kingdom, 2027",
@@ -10078,86 +10067,21 @@
 					"salary": null,
 					"posted": "2026-09-24",
 					"category": "other"
-				},
-				{
-					"slug": "operations-human-resources-partner-intern-3-12-months-2027-3b8ce54b",
-					"company": "Amazon",
-					"title": "Operations Human Resources Partner Intern (3 - 12 Months) - 2027",
-					"city": null,
-					"country_code": "UK",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-09-24",
-					"category": "other"
-				},
-				{
-					"slug": "operations-human-resources-partner-intern-3-months-2027-8df39378",
-					"company": "Amazon",
-					"title": "Operations Human Resources Partner Intern (3 Months) - 2027",
-					"city": null,
-					"country_code": "UK",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-09-24",
-					"category": "other"
-				},
-				{
-					"slug": "operations-human-resources-partner-intern-12-months-2027-4a47118a",
-					"company": "Amazon",
-					"title": "Operations Human Resources Partner Intern (12 Months) - 2027",
-					"city": null,
-					"country_code": "UK",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-09-24",
-					"category": "other"
-				},
-				{
-					"slug": "information-systems-digital-experience-and-enablement-intern-9e5c7f7f",
-					"company": "BAE Systems",
-					"title": "Information Systems - Digital Experience and Enablement Intern, Summer 2027",
-					"city": null,
-					"country_code": "UK",
-					"work_mode": "On-site",
-					"salary": "49,592 – 68,993",
-					"posted": "2026-09-24",
-					"category": "other"
-				},
-				{
-					"slug": "rch-job-gb-ups-woking-gbwok-treasury-administrator-r26031541-63913476",
-					"company": "CAN Canada",
-					"title": "Treasury Finance Intern",
-					"city": null,
-					"country_code": "UK",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-09-24",
-					"category": "finance"
-				},
-				{
-					"slug": "accounting-intern-summer-2027-bc6db1b3",
-					"company": "JonnyPops",
-					"title": "Accounting Intern - Summer 2027",
-					"city": null,
-					"country_code": "UK",
-					"work_mode": "On-site",
-					"salary": "$21",
-					"posted": "2026-09-23",
-					"category": "finance"
-				},
-				{
-					"slug": "finance-intern-summer-2027-b9b534c9",
-					"company": "JonnyPops",
-					"title": "Finance Intern - Summer 2027",
-					"city": null,
-					"country_code": "UK",
-					"work_mode": "On-site",
-					"salary": "$21",
-					"posted": "2026-09-23",
-					"category": "finance"
 				}
 			],
 			"closed": [
+				{
+					"slug": "clinical-trial-assistant-student-placement-2ba29907",
+					"company": "Jj",
+					"title": "Clinical Trial Assistant - Student Placement",
+					"city": null,
+					"country_code": "UK",
+					"work_mode": "Hybrid",
+					"salary": null,
+					"posted": "2026-10-09",
+					"category": "other",
+					"closed_at": "2026-11-23"
+				},
 				{
 					"slug": "2027-manufacturing-intern-dundee-toledo-0e17ff70",
 					"company": "Stellantis",
@@ -10774,6 +10698,39 @@
 		},
 		"de": {
 			"open": [
+				{
+					"slug": "software-engineering-intern-5826c816",
+					"company": "Nvidia",
+					"title": "Software Engineering Intern",
+					"city": "Munich, Bavaria",
+					"country_code": "DE",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-23",
+					"category": "software-engineering"
+				},
+				{
+					"slug": "founder-s-associate-intern-gtm-2df28481",
+					"company": "Clera",
+					"title": "Founder's Associate Intern (GTM)",
+					"city": "Berlin, Berlin",
+					"country_code": "DE",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-22",
+					"category": "other"
+				},
+				{
+					"slug": "founders-associate-intern-c2ad24a6",
+					"company": "Clera",
+					"title": "Founders Associate Intern",
+					"city": "Berlin, Berlin",
+					"country_code": "DE",
+					"work_mode": "On-site",
+					"salary": "€28,800",
+					"posted": "2026-11-22",
+					"category": "other"
+				},
 				{
 					"slug": "many-schlerpraktikum-im-kaufmnnischen-bereich-m-w-d-30217605-4d05d45d",
 					"company": "C0Carrier Corporation",
@@ -20653,17 +20610,6 @@
 					"category": "other"
 				},
 				{
-					"slug": "praktikant-m-w-d-policy-56267b0f",
-					"company": "Intervet International Gm",
-					"title": "Praktikant (m/w/d) Policy",
-					"city": null,
-					"country_code": "DE",
-					"work_mode": "Hybrid",
-					"salary": null,
-					"posted": "2026-11-09",
-					"category": "other"
-				},
-				{
 					"slug": "internship-product-line-management-sportstyle-apparel-2d28778a",
 					"company": "PUMA SE",
 					"title": "Internship Product Line Management Sportstyle Apparel",
@@ -21113,6 +21059,17 @@
 					"salary": null,
 					"posted": "2026-11-06",
 					"category": "other"
+				},
+				{
+					"slug": "e-merchandising-intern-m-w-d-fe6be8d5",
+					"company": "Estée Lauder",
+					"title": "E-Merchandising Intern (m/w/d)",
+					"city": "Munich, Bavaria",
+					"country_code": "DE",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-06",
+					"category": "marketing"
 				},
 				{
 					"slug": "e-merchandising-intern-m-w-d-9e578f33",
@@ -21740,42 +21697,21 @@
 					"salary": null,
 					"posted": "2026-11-06",
 					"category": "other"
-				},
-				{
-					"slug": "intern-within-simulation-and-modeling-d-f-m-8becf407",
-					"company": "Airbus Helicopters, Inc.",
-					"title": "Intern within Simulation and Modeling (d/f/m)",
-					"city": null,
-					"country_code": "DE",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-06",
-					"category": "other"
-				},
-				{
-					"slug": "industrial-design-intern-product-design-cabin-hamburg-d-f-m-cac27a26",
-					"company": "Airbus Helicopters, Inc.",
-					"title": "Industrial Design Intern – Product Design Cabin. Hamburg (d/f/m)",
-					"city": null,
-					"country_code": "DE",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-06",
-					"category": "other"
-				},
-				{
-					"slug": "werkstudenten-fur-das-airbus-resources-planning-program-d-m-f9b18648",
-					"company": "Airbus Helicopters, Inc.",
-					"title": "Werkstudenten für das Airbus Resources Planning Program (d/m/w)",
-					"city": null,
-					"country_code": "DE",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-06",
-					"category": "other"
 				}
 			],
 			"closed": [
+				{
+					"slug": "praktikant-m-w-d-policy-56267b0f",
+					"company": "Intervet International Gm",
+					"title": "Praktikant (m/w/d) Policy",
+					"city": null,
+					"country_code": "DE",
+					"work_mode": "Hybrid",
+					"salary": null,
+					"posted": "2026-11-09",
+					"category": "other",
+					"closed_at": "2026-11-23"
+				},
 				{
 					"slug": "praktikant-in-m-w-d-energy-consulting-2a5bfcd6",
 					"company": "AFRY",
@@ -22140,6 +22076,138 @@
 		},
 		"eu": {
 			"open": [
+				{
+					"slug": "champ-events-intern-dc0d6098",
+					"company": "Wri",
+					"title": "CHAMP Events intern",
+					"city": "The Hague, South Holland",
+					"country_code": "NL",
+					"work_mode": "Remote",
+					"salary": null,
+					"posted": "2026-11-23",
+					"category": "other"
+				},
+				{
+					"slug": "champ-communications-intern-c4071d61",
+					"company": "Wri",
+					"title": "CHAMP Communications Intern",
+					"city": "The Hague, South Holland",
+					"country_code": "NL",
+					"work_mode": "Remote",
+					"salary": null,
+					"posted": "2026-11-23",
+					"category": "marketing"
+				},
+				{
+					"slug": "stage-conseiller-de-vente-h-f-x-35h-cannes-d480c9c9",
+					"company": "Swarovski Retail Ventures",
+					"title": "Stage - Conseiller de Vente (H/F/X) 35H - Cannes",
+					"city": "Cannes, Provence-Alpes-Côte d'Azur",
+					"country_code": "FR",
+					"work_mode": null,
+					"salary": null,
+					"posted": "2026-11-23",
+					"category": "other"
+				},
+				{
+					"slug": "ferialpraktikum-htl-pasching-w-m-div-05f4d45d",
+					"company": "Bosch Group",
+					"title": "Ferialpraktikum HTL Pasching (w/m/div.)",
+					"city": "Pasching",
+					"country_code": "AT",
+					"work_mode": "On-site",
+					"salary": "€1,524",
+					"posted": "2026-11-22",
+					"category": "other"
+				},
+				{
+					"slug": "ferialpraktikum-uni-fh-linz-w-m-div-a33d19f1",
+					"company": "Bosch Group",
+					"title": "Ferialpraktikum Uni/FH Linz (w/m/div.)",
+					"city": "Linz, Upper Austria",
+					"country_code": "AT",
+					"work_mode": "On-site",
+					"salary": "€2,000",
+					"posted": "2026-11-22",
+					"category": "other"
+				},
+				{
+					"slug": "ferialpraktikum-htl-wien-w-m-div-bb410c75",
+					"company": "Bosch Group",
+					"title": "Ferialpraktikum HTL Wien (w/m/div.)",
+					"city": "Wien, Vienna",
+					"country_code": "AT",
+					"work_mode": "On-site",
+					"salary": "€1,524",
+					"posted": "2026-11-22",
+					"category": "other"
+				},
+				{
+					"slug": "ferialpraktikum-htl-linz-becl-w-m-div-99ab3685",
+					"company": "Bosch Group",
+					"title": "Ferialpraktikum HTL Linz - BECL (w/m/div.)",
+					"city": "Linz, Upper Austria",
+					"country_code": "AT",
+					"work_mode": "On-site",
+					"salary": "€1,524",
+					"posted": "2026-11-22",
+					"category": "other"
+				},
+				{
+					"slug": "ferialpraktikum-htl-linz-rexroth-w-m-div-318e08f1",
+					"company": "Bosch Group",
+					"title": "Ferialpraktikum HTL Linz - Rexroth (w/m/div.)",
+					"city": "Linz, Upper Austria",
+					"country_code": "AT",
+					"work_mode": "On-site",
+					"salary": "€1,524",
+					"posted": "2026-11-22",
+					"category": "other"
+				},
+				{
+					"slug": "software-engineering-intern-7f656584",
+					"company": "Microsoft",
+					"title": "Software Engineering INTERN",
+					"city": "Tampere, Pirkanmaa",
+					"country_code": "FI",
+					"work_mode": "Hybrid",
+					"salary": null,
+					"posted": "2026-11-22",
+					"category": "software-engineering"
+				},
+				{
+					"slug": "stage-extracurriculare-kiabi-arese-98452179",
+					"company": "Kiabi",
+					"title": "STAGE EXTRACURRICULARE KIABI ARESE",
+					"city": null,
+					"country_code": "IT",
+					"work_mode": "On-site",
+					"salary": "€800",
+					"posted": "2026-11-22",
+					"category": "other"
+				},
+				{
+					"slug": "stagiaire-qualite-588d2710",
+					"company": "Beaufour Ipsen Farmaceutica Ltda",
+					"title": "Stagiaire Qualité",
+					"city": "Paris, Île-de-France",
+					"country_code": "FR",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-22",
+					"category": "other"
+				},
+				{
+					"slug": "stagiaire-clinical-systems-data-bb69105b",
+					"company": "Beaufour Ipsen Farmaceutica Ltda",
+					"title": "Stagiaire Clinical Systems & data",
+					"city": "Paris, Île-de-France",
+					"country_code": "FR",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-22",
+					"category": "other"
+				},
 				{
 					"slug": "stage-extracurriculare-32h-settimanali-retribuito-kiabi-5427c20f",
 					"company": "Kiabi",
@@ -23219,17 +23287,6 @@
 					"category": "other"
 				},
 				{
-					"slug": "stage-ingenieur-technicien-en-vulnerabilite-des-batis-h-f-21618db8",
-					"company": "Socotec",
-					"title": "[STAGE] Ingénieur / Technicien en Vulnérabilité des Bâtis H/F",
-					"city": null,
-					"country_code": "FR",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-20",
-					"category": "other"
-				},
-				{
 					"slug": "praktikum-im-bereich-lagerlogistik-m-w-d-8e3a867b",
 					"company": "WABTEC BRASIL FABRICACAO E MANUTENCAO DE EQUIPAMENTOS LTDA",
 					"title": "Praktikum im Bereich Lagerlogistik (m/w/d)",
@@ -23555,17 +23612,6 @@
 					"city": null,
 					"country_code": "IT",
 					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-20",
-					"category": "operations"
-				},
-				{
-					"slug": "operations-management-leadership-program-internship-03b54951",
-					"company": "GE Healthcare",
-					"title": "Operations Management Leadership Program - Internship",
-					"city": null,
-					"country_code": "IT",
-					"work_mode": "Remote",
 					"salary": null,
 					"posted": "2026-11-20",
 					"category": "operations"
@@ -24069,17 +24115,6 @@
 					"slug": "stage-developpement-jumeau-numerique-d-eprouvettes-6bf22834",
 					"company": "Michelin North America",
 					"title": "Stage - Développement jumeau numérique d'éprouvettes viscoélastiques (F/H)",
-					"city": null,
-					"country_code": "FR",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-20",
-					"category": "other"
-				},
-				{
-					"slug": "stage-etude-de-l-impact-de-la-formulation-sur-les-particules-65160397",
-					"company": "Michelin North America",
-					"title": "Stage - Étude de l’impact de la formulation sur les particules d’usure (F/H)",
 					"city": null,
 					"country_code": "FR",
 					"work_mode": "On-site",
@@ -27773,17 +27808,6 @@
 					"category": "other"
 				},
 				{
-					"slug": "becas-en-la-red-de-oficinas-de-banca-comercial-de-bbva-en-e3995da9",
-					"company": "Bbva",
-					"title": "BECAS EN LA RED DE OFICINAS DE BANCA COMERCIAL DE BBVA EN MADRID Y CASTILLA LA MANCHA",
-					"city": null,
-					"country_code": "ES",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-19",
-					"category": "other"
-				},
-				{
 					"slug": "stage-ingenieure-ingenieur-mecanique-dynamique-des-5bd42eb0",
 					"company": "ArianeGroup SAS",
 					"title": "STAGE - Ingénieure / Ingénieur Mécanique - Dynamique des structures",
@@ -28554,6 +28578,17 @@
 					"category": "other"
 				},
 				{
+					"slug": "emea-earned-owned-media-assistant-intern-0c5698bb",
+					"company": "Estée Lauder",
+					"title": "EMEA Earned & Owned Media Assistant Intern",
+					"city": "Neuilly-sur-Seine, Île-de-France",
+					"country_code": "FR",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-18",
+					"category": "other"
+				},
+				{
 					"slug": "stage-conception-et-deploiement-d-agents-ia-infrastructure-ac8bafbf",
 					"company": "Sopra Steria",
 					"title": "Stage - Conception et Déploiement d’Agents IA - Infrastructure - Rennes",
@@ -28763,6 +28798,17 @@
 					"category": "other"
 				},
 				{
+					"slug": "graphic-design-school-internship-79421bf7",
+					"company": "Estée Lauder",
+					"title": "Graphic Design School Internship",
+					"city": "Brussels, Brussels Capital",
+					"country_code": "BE",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-18",
+					"category": "other"
+				},
+				{
 					"slug": "graphic-design-school-internship-fdf1a50b",
 					"company": "Estée Lauder Companies",
 					"title": "Graphic Design School Internship",
@@ -28838,6 +28884,17 @@
 					"salary": null,
 					"posted": "2026-11-18",
 					"category": "other"
+				},
+				{
+					"slug": "pr-owned-earned-media-school-internship-ff726d1a",
+					"company": "Estée Lauder",
+					"title": "PR & Owned/Earned Media School Internship",
+					"city": "Brussels, Brussels Capital",
+					"country_code": "BE",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-18",
+					"category": "marketing"
 				},
 				{
 					"slug": "pr-owned-earned-media-school-internship-247c5d01",
@@ -31029,6 +31086,17 @@
 					"category": "other"
 				},
 				{
+					"slug": "retail-department-school-internship-95cf349e",
+					"company": "Estée Lauder",
+					"title": "Retail Department School Internship",
+					"city": "Brussels, Brussels Capital",
+					"country_code": "BE",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-17",
+					"category": "other"
+				},
+				{
 					"slug": "visual-merchandising-school-internship-3f9039c8",
 					"company": "Estée Lauder",
 					"title": "Visual Merchandising School Internship",
@@ -31799,17 +31867,6 @@
 					"category": "software-engineering"
 				},
 				{
-					"slug": "ai-for-quantum-intern-h1-2027-8247c985",
-					"company": "Quandela",
-					"title": "AI for Quantum Intern (H1/2027)",
-					"city": null,
-					"country_code": "FR",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-17",
-					"category": "software-engineering"
-				},
-				{
 					"slug": "r-d-software-engineer-c-python-internship-fd920d83",
 					"company": "Keysight Technologies",
 					"title": "R&D Software Engineer C++/Python Internship",
@@ -31973,17 +32030,6 @@
 					"salary": null,
 					"posted": "2026-11-17",
 					"category": "finance"
-				},
-				{
-					"slug": "stage-extracurriculare-kiabi-arese-9d25ac19",
-					"company": "Kiabi",
-					"title": "STAGE EXTRACURRICULARE KIABI ARESE",
-					"city": null,
-					"country_code": "IT",
-					"work_mode": "On-site",
-					"salary": "€800",
-					"posted": "2026-11-17",
-					"category": "other"
 				},
 				{
 					"slug": "stage-de-fin-d-etude-charge-de-recrutement-h-f-ff9d6780",
@@ -33029,119 +33075,57 @@
 					"salary": null,
 					"posted": "2026-11-17",
 					"category": "other"
-				},
-				{
-					"slug": "stage-6-mois-fiabilite-methodes-en-maintenance-29a6b15b",
-					"company": "Sanofi Healthcare India Private Limited",
-					"title": "stage 6 mois fiabilité méthodes en maintenance",
-					"city": null,
-					"country_code": "FR",
-					"work_mode": null,
-					"salary": null,
-					"posted": "2026-11-17",
-					"category": "other"
-				},
-				{
-					"slug": "stage-conseiller-de-vente-h-f-x-35h-galeries-lafayette-nice-162d457b",
-					"company": "Swarovski Retail Ventures",
-					"title": "Stage - Conseiller de Vente (H/F/X) 35H - Galeries Lafayette Nice",
-					"city": null,
-					"country_code": "FR",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-17",
-					"category": "other"
-				},
-				{
-					"slug": "stage-conseiller-de-vente-f-h-x-35h-nancy-46e19827",
-					"company": "Swarovski Retail Ventures",
-					"title": "Stage - Conseiller de Vente (F/H/X) 35H - Nancy",
-					"city": null,
-					"country_code": "FR",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-17",
-					"category": "other"
-				},
-				{
-					"slug": "stagiaire-service-doctrine-fiscale-publications-janvier-2028-a377389a",
-					"company": "PwC",
-					"title": "Stagiaire Service Doctrine fiscale & Publications - Janvier 2028 - F/H",
-					"city": null,
-					"country_code": "FR",
-					"work_mode": null,
-					"salary": null,
-					"posted": "2026-11-17",
-					"category": "other"
-				},
-				{
-					"slug": "stage-bpo-logistica-13a2cea9",
-					"company": "Banca Sella Holding",
-					"title": "Stage BPO Logistica",
-					"city": null,
-					"country_code": "IT",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-17",
-					"category": "other"
-				},
-				{
-					"slug": "internship-january-2027-digital-social-media-intern-f-m-fd76d517",
-					"company": "Richemont",
-					"title": "INTERNSHIP JANUARY 2027 - DIGITAL/SOCIAL MEDIA INTERN (F/M)",
-					"city": null,
-					"country_code": "FR",
-					"work_mode": "Hybrid",
-					"salary": null,
-					"posted": "2026-11-17",
-					"category": "marketing"
-				},
-				{
-					"slug": "stage-assistant-e-support-analytique-au-controle-qualite-h-f-baffdb41",
-					"company": "ROQUETTE CANADA LTD",
-					"title": "Stage - Assistant(e) Support Analytique au Contrôle Qualité (H/F)",
-					"city": null,
-					"country_code": "FR",
-					"work_mode": null,
-					"salary": null,
-					"posted": "2026-11-17",
-					"category": "other"
-				},
-				{
-					"slug": "stage-assistant-e-ingenieur-assurance-qualite-food-d6a7355c",
-					"company": "ROQUETTE CANADA LTD",
-					"title": "Stage - Assistant(e) Ingénieur Assurance Qualité Food & Spécialités (H/F)",
-					"city": null,
-					"country_code": "FR",
-					"work_mode": null,
-					"salary": null,
-					"posted": "2026-11-17",
-					"category": "other"
-				},
-				{
-					"slug": "stage-assistant-e-ingenieur-de-recherche-en-traitement-a17a1937",
-					"company": "ROQUETTE CANADA LTD",
-					"title": "Stage – Assistant(e) Ingénieur de Recherche en Traitement Thermique (H/F)",
-					"city": null,
-					"country_code": "FR",
-					"work_mode": null,
-					"salary": null,
-					"posted": "2026-11-17",
-					"category": "other"
-				},
-				{
-					"slug": "stage-r-d-technicien-ne-developpement-analytique-0829ed4d",
-					"company": "ROQUETTE CANADA LTD",
-					"title": "Stage - R&D - Technicien(ne) Développement Analytique & Chromatographie (H/F)",
-					"city": null,
-					"country_code": "FR",
-					"work_mode": null,
-					"salary": null,
-					"posted": "2026-11-17",
-					"category": "other"
 				}
 			],
 			"closed": [
+				{
+					"slug": "stage-ingenieur-technicien-en-vulnerabilite-des-batis-h-f-21618db8",
+					"company": "Socotec",
+					"title": "[STAGE] Ingénieur / Technicien en Vulnérabilité des Bâtis H/F",
+					"city": null,
+					"country_code": "FR",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-20",
+					"category": "other",
+					"closed_at": "2026-11-23"
+				},
+				{
+					"slug": "operations-management-leadership-program-internship-03b54951",
+					"company": "GE Healthcare",
+					"title": "Operations Management Leadership Program - Internship",
+					"city": null,
+					"country_code": "IT",
+					"work_mode": "Remote",
+					"salary": null,
+					"posted": "2026-11-20",
+					"category": "operations",
+					"closed_at": "2026-11-23"
+				},
+				{
+					"slug": "stage-etude-de-l-impact-de-la-formulation-sur-les-particules-65160397",
+					"company": "Michelin North America",
+					"title": "Stage - Étude de l’impact de la formulation sur les particules d’usure (F/H)",
+					"city": null,
+					"country_code": "FR",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-20",
+					"category": "other",
+					"closed_at": "2026-11-23"
+				},
+				{
+					"slug": "becas-en-la-red-de-oficinas-de-banca-comercial-de-bbva-en-e3995da9",
+					"company": "Bbva",
+					"title": "BECAS EN LA RED DE OFICINAS DE BANCA COMERCIAL DE BBVA EN MADRID Y CASTILLA LA MANCHA",
+					"city": null,
+					"country_code": "ES",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-19",
+					"category": "other",
+					"closed_at": "2026-11-23"
+				},
 				{
 					"slug": "commercial-and-account-management-intern-remote-2dc2c658",
 					"company": "IN-VR",

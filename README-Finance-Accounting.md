@@ -4,7 +4,7 @@
 
 💻 [Software Engineering](README-Software-Engineering.md) · ⚙️ [Operations & Management](README-Operations-Management.md) · 📣 [Marketing & Content](README-Marketing-Content.md) · 🔧 [Hardware Engineering](README-Hardware-Engineering.md) · 💰 **Finance & Accounting** · 🗂 [Other](README-Other.md)
 
-139 open internships in this category. Press **Apply** to open the job on likeremote.com. This list updates by itself every 6 hours.
+136 open internships in this category. Press **Apply** to open the job on likeremote.com. This list updates by itself every 6 hours.
 
 ## 🇬🇧 United Kingdom
 
@@ -91,9 +91,6 @@
 | **Airbus<br>Helicopters, Inc.** | Finance Filton Placement (12.5 months) | 🇬🇧 United Kingdom | — | Hybrid | Sep 28 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/us-job-filton-finance-filton-placement-125-months-jr10429416-34a666d5?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Airbus<br>Helicopters, Inc.** | Finance Broughton Placement (12.5 months) | 🇬🇧 United Kingdom | — | Hybrid | Sep 28 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/airbus-job-broughton-broughton-finance-internship-jr10429467-bd118f3e?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Finmid** | Capital Markets Intern | 🇬🇧 United Kingdom | — | On-site | Sep 25 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/ashbyhq-com-finmid-com-c83350ac-9ea7-40eb-a6be-3b741e17f6f2-b4469f43?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
-| **CAN Canada** | Treasury Finance Intern | 🇬🇧 United Kingdom | — | On-site | Sep 24 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/rch-job-gb-ups-woking-gbwok-treasury-administrator-r26031541-63913476?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
-| **JonnyPops** | Accounting Intern - Summer 2027 | 🇬🇧 United Kingdom | $21 | On-site | Sep 23 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/accounting-intern-summer-2027-bc6db1b3?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
-| **JonnyPops** | Finance Intern - Summer 2027 | 🇬🇧 United Kingdom | $21 | On-site | Sep 23 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/finance-intern-summer-2027-b9b534c9?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 
 ## 🇩🇪 Germany
 

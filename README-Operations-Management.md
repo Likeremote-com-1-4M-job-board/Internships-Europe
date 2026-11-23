@@ -4,7 +4,7 @@
 
 💻 [Software Engineering](README-Software-Engineering.md) · ⚙️ **Operations & Management** · 📣 [Marketing & Content](README-Marketing-Content.md) · 🔧 [Hardware Engineering](README-Hardware-Engineering.md) · 💰 [Finance & Accounting](README-Finance-Accounting.md) · 🗂 [Other](README-Other.md)
 
-112 open internships in this category. Press **Apply** to open the job on likeremote.com. This list updates by itself every 6 hours.
+111 open internships in this category. Press **Apply** to open the job on likeremote.com. This list updates by itself every 6 hours.
 
 ## 🇬🇧 United Kingdom
 
@@ -65,7 +65,7 @@
 
 | Company | Role | Location | Salary | Work mode | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
-| **John Deere** | 🆕 Praktikum Logistik (m/w/d) | 🇩🇪 Germany | — | On-site | Nov 21 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/praktikum-logistik-m-w-d-fccde2b7?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
+| **John Deere** | Praktikum Logistik (m/w/d) | 🇩🇪 Germany | — | On-site | Nov 21 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/praktikum-logistik-m-w-d-fccde2b7?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **John Deere** | Praktikum Logistik - Werkslogistik Operations Planning (m/w/d) | 🇩🇪 Germany | — | On-site | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/praktikum-logistik-werkslogistik-operations-planning-m-w-d-b59ff05f?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Wemolo** | Intern Supply Chain (all genders) | 🇩🇪 Germany | — | Hybrid | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/intern-supply-chain-all-genders-bd746d6c?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Amazon** | Praktikum im Bereich Logistik - Witten - Start 2027 | 🇩🇪 Germany | — | On-site | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/praktikum-im-bereich-logistik-witten-start-2027-423f5a79?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
@@ -109,11 +109,11 @@
 | **WSP Switzerland** | Stage - Ingénierie, gestion et exploitation des infrastructures routières (H/F) | 🇫🇷 France | — | On-site | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/stage-ingenierie-gestion-et-exploitation-des-infrastructures-0c356f0b?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Fastned** | Working Student - Procurement | 🇳🇱 Netherlands | — | Hybrid | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/working-student-procurement-cbd3900a?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Medtronic** | Tirocinio extracurriculare: Procurement Intern | 🇮🇹 Italy | — | On-site | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/tirocinio-extracurriculare-procurement-intern-683426a8?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
-| **GE Healthcare** | Operations Management Leadership Program - Internship | 🇮🇹 Remote | — | Remote | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/operations-management-leadership-program-internship-03b54951?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Novanta Inc., USA** | Intern Procurement Department | 🇪🇸 Spain | — | On-site | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/intern-procurement-department-b70906a4?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Airbus<br>Helicopters, Inc.** | #Discover I 2027-2028 Internship in Cross Operations Performance &amp; Improvement Team for Air Power Operations | 🇪🇸 Spain | — | — | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/discover-i-2027-2028-internship-in-cross-operations-1018d736?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Covestro<br>(Netherlands) B.V.** | Procurement Intern (student part-time) | 🇸🇰 Slovakia | — | On-site | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/procurement-intern-student-part-time-a4044d9f?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Medtronic** | Tirocinio extracurriculare: Procurement Intern | 🇮🇹 Italy | — | On-site | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/tirocinio-extracurriculare-procurement-intern-01aa9a66?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
+| **GE Healthcare** | Operations Management Leadership Program - Internship | 🇮🇹 Remote | — | Remote | Nov 20 | 🔒 |
 | **Bosch Group** | Logistics Materials Intern/Co-Op - Spring 2027 | 🇮🇹 Italy | — | On-site | Nov 19 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/logistics-materials-intern-co-op-spring-2027-57cca1cd?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **ASML** | Procurement \| Artificial Intelligence internship: procurement AI solutions | 🇳🇱 Netherlands | — | On-site | Nov 19 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/procurement-artificial-intelligence-internship-procurement-2f778c3a?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Polyflow, LLC** | Intern – Procurement Contract Management – 2027 Opportunities (M/F/D) | 🇮🇹 Italy | — | — | Nov 19 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/intern-procurement-contract-management-2027-opportunities-m-f664e645?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |

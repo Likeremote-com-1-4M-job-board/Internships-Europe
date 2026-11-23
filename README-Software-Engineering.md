@@ -4,7 +4,7 @@
 
 💻 **Software Engineering** · ⚙️ [Operations & Management](README-Operations-Management.md) · 📣 [Marketing & Content](README-Marketing-Content.md) · 🔧 [Hardware Engineering](README-Hardware-Engineering.md) · 💰 [Finance & Accounting](README-Finance-Accounting.md) · 🗂 [Other](README-Other.md)
 
-219 open internships in this category. Press **Apply** to open the job on likeremote.com. This list updates by itself every 6 hours.
+220 open internships in this category. Press **Apply** to open the job on likeremote.com. This list updates by itself every 6 hours.
 
 ## 🇬🇧 United Kingdom
 
@@ -139,6 +139,7 @@
 
 | Company | Role | Location | Salary | Work mode | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| **Nvidia** | 🆕 Software Engineering Intern | 🇩🇪 Munich, Bavaria | — | On-site | Nov 23 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/software-engineering-intern-5826c816?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Apple** | Intern - Software Development Engineer | 🇩🇪 Germany | — | On-site | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/intern-software-development-engineer-8a2c9715?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Bosch Group** | Internship in Development of an AI-Based Competitive Database and Product Matching Tool | 🇩🇪 Germany | — | On-site | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/internship-in-development-of-an-ai-based-competitive-d08340e5?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Keysight<br>Technologies** | Software Engineering Intern - Veriloga Compiler with Full Coverage Testing suites | 🇩🇪 Germany | — | On-site | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/software-engineering-intern-veriloga-compiler-with-full-240aeeff?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
@@ -193,6 +194,7 @@
 
 | Company | Role | Location | Salary | Work mode | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| **Microsoft** | 🆕 Software Engineering INTERN | 🇫🇮 Tampere, Pirkanmaa | — | Hybrid | Nov 22 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/software-engineering-intern-7f656584?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Auctane** | Associate Software Engineer - internship | 🇵🇱 Poland | — | Hybrid | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/associate-software-engineer-internship-b9304376?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Ericsson** | Research Summer Interns: Compute and Software Research | 🇫🇮 Finland | — | Hybrid | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/research-summer-interns-compute-and-software-research-94b1c4de?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Devoteam** | Devoteam Cyber Trust \| Cybersecurity Engineer (IAM) \| IEFP Internship | 🇵🇹 Portugal | — | Hybrid | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/devoteam-cyber-trust-cybersecurity-engineer-iam-iefp-3122dce9?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
@@ -252,7 +254,6 @@
 | **Titan OS** | Backend Developer Intern | 🇪🇸 Spain | — | Hybrid | Nov 17 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/backend-developer-intern-3bc7ad62?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Sia** | Final year internship - DevOps / Platform Engineer | 🇫🇷 France | — | On-site | Nov 17 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/final-year-internship-devops-platform-engineer-be0ac050?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Apple** | QA Automation Test Engineering Intern - Dublin, Ireland | 🇮🇪 Ireland | — | On-site | Nov 17 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/qa-automation-test-engineering-intern-dublin-ireland-d0f41fff?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
-| **Quandela** | AI for Quantum Intern (H1/2027) | 🇫🇷 France | — | On-site | Nov 17 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/ai-for-quantum-intern-h1-2027-8247c985?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Keysight<br>Technologies** | R&amp;D Software Engineer C++/Python Internship | 🇧🇪 Belgium | — | On-site | Nov 17 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/r-d-software-engineer-c-python-internship-fd920d83?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Aon** | Internship - Cyber | 🇮🇹 Italy | — | On-site | Nov 17 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/internship-cyber-847aac5c?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Hewlett Packard** | Software &amp; AI Product Management Intern | 🇪🇸 Spain | — | On-site | Nov 17 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/software-ai-product-management-intern-9182fb27?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
