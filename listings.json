@@ -1,9 +1,9 @@
 {
 	"meta": {
 		"repo": "Likeremote-com-1-4M-job-board/Internships-Europe",
-		"generated_at": "2026-11-24T10:02:19.871Z",
-		"hash": "3e42d163bce099ea0221a0cf1d988a56c3fb9039124d237f34be38c0222560e4",
-		"open_total": 12635,
+		"generated_at": "2026-11-24T22:33:34.552Z",
+		"hash": "4a2cb2ef8013e604cb1993a50d5bed12fb34853a3121a2589fce6eb7af8cffb8",
+		"open_total": 12612,
 		"regions": {
 			"uk": {
 				"feed_count": 906,
@@ -11,12 +11,12 @@
 				"closed": 77
 			},
 			"de": {
-				"feed_count": 2788,
+				"feed_count": 2776,
 				"listed": 1000,
 				"closed": 55
 			},
 			"eu": {
-				"feed_count": 8941,
+				"feed_count": 8930,
 				"listed": 1000,
 				"closed": 48
 			}

@@ -21,7 +21,7 @@
 
 ## Internships in Europe
 
-[![open internships](https://img.shields.io/badge/open_internships-12%2C635-1d5a91)](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) [![updated](https://img.shields.io/github/last-commit/Likeremote-com-1-4M-job-board/Internships-Europe?label=updated&color=1f7a3a)](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) [![stars](https://img.shields.io/github/stars/Likeremote-com-1-4M-job-board/Internships-Europe?label=stars&color=2b3b48)](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-europe)
+[![open internships](https://img.shields.io/badge/open_internships-12%2C612-1d5a91)](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) [![updated](https://img.shields.io/github/last-commit/Likeremote-com-1-4M-job-board/Internships-Europe?label=updated&color=1f7a3a)](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) [![stars](https://img.shields.io/github/stars/Likeremote-com-1-4M-job-board/Internships-Europe?label=stars&color=2b3b48)](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-europe)
 
 Every internship in the UK, Germany and the rest of the EU that we find in 1.4M live jobs, in every industry, newest first. This list updates by itself every 6 hours.
 
