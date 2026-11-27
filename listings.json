@@ -1,22 +1,22 @@
 {
 	"meta": {
 		"repo": "Likeremote-com-1-4M-job-board/Internships-Europe",
-		"generated_at": "2026-11-27T08:44:49.412Z",
-		"hash": "0e401b47dfa75ffe49a8b1300dafc246730d48852cdbba0577144dbe2b16a990",
-		"open_total": 12508,
+		"generated_at": "2026-11-27T21:26:05.825Z",
+		"hash": "0bee2461ec7d559f6cf3687206b8e244e1fa960b8e8d095e5621e72418604475",
+		"open_total": 12469,
 		"regions": {
 			"uk": {
-				"feed_count": 824,
-				"listed": 824,
+				"feed_count": 821,
+				"listed": 821,
 				"closed": 137
 			},
 			"de": {
-				"feed_count": 2794,
+				"feed_count": 2782,
 				"listed": 1000,
 				"closed": 130
 			},
 			"eu": {
-				"feed_count": 8890,
+				"feed_count": 8866,
 				"listed": 1000,
 				"closed": 112
 			}
@@ -9054,39 +9054,6 @@
 					"work_mode": "On-site",
 					"salary": "$20.50 / hour",
 					"posted": "2026-09-29",
-					"category": "other"
-				},
-				{
-					"slug": "s-com-keenfinity-744000152241469-software-engineering-intern-81ad0ab5",
-					"company": "Keenfinity",
-					"title": "Software Engineering Intern",
-					"city": null,
-					"country_code": "UK",
-					"work_mode": "On-site",
-					"salary": "$25 – $27",
-					"posted": "2026-09-28",
-					"category": "software-engineering"
-				},
-				{
-					"slug": "job-boards-greenhouse-io-acluinternships-jobs-8843536002-20e00ab4",
-					"company": "ACLU - Internships",
-					"title": "Summer 2027 Legal Intern, Capital Punishment Project",
-					"city": null,
-					"country_code": "UK",
-					"work_mode": "Hybrid",
-					"salary": "$24",
-					"posted": "2026-09-28",
-					"category": "other"
-				},
-				{
-					"slug": "job-boards-greenhouse-io-acluinternships-jobs-8843314002-9d0b32d9",
-					"company": "ACLU - Internships",
-					"title": "Summer 2027 Undergraduate Intern, Speech, Privacy and Technology Project",
-					"city": null,
-					"country_code": "UK",
-					"work_mode": "Hybrid",
-					"salary": "$20",
-					"posted": "2026-09-28",
 					"category": "other"
 				}
 			],

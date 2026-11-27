@@ -10,18 +10,18 @@
 
 <p align="center"><a href="https://likeremote.com/jobs?internships=1&amp;utm_source=github&amp;utm_medium=readme&amp;utm_campaign=internships-europe"><b>Browse all internships</b></a> &nbsp;·&nbsp; <a href="https://likeremote.com/jobs?internships=1&amp;work_arrangement=Remote&amp;utm_source=github&amp;utm_medium=readme&amp;utm_campaign=internships-europe"><b>Remote internships</b></a> &nbsp;·&nbsp; <a href="https://likeremote.com/jobs?internships=1&amp;country=UK&amp;utm_source=github&amp;utm_medium=readme&amp;utm_campaign=internships-europe"><b>🇬🇧 United Kingdom</b></a> &nbsp;·&nbsp; <a href="https://likeremote.com/jobs?internships=1&amp;country=DE&amp;utm_source=github&amp;utm_medium=readme&amp;utm_campaign=internships-europe"><b>🇩🇪 Germany</b></a> &nbsp;·&nbsp; <a href="https://likeremote.com/jobs?internships=1&amp;country=FR&amp;utm_source=github&amp;utm_medium=readme&amp;utm_campaign=internships-europe"><b>🇫🇷 France</b></a> &nbsp;·&nbsp; <a href="https://likeremote.com/jobs?internships=1&amp;country=NL&amp;utm_source=github&amp;utm_medium=readme&amp;utm_campaign=internships-europe"><b>🇳🇱 Netherlands</b></a> &nbsp;·&nbsp; <a href="https://likeremote.com/sign-up?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=internships-europe"><b>Get new internships by email</b></a> &nbsp;·&nbsp; <a href="https://chromewebstore.google.com/detail/mafigepobbpcbplggdjcjeabpjafcnig?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=internships-europe"><b>Add the Chrome extension</b></a> &nbsp;·&nbsp; <a href="https://github.com/Likeremote-com-1-4M-job-board/Internships-US"><b>🇺🇸 Internships in the US (GitHub)</b></a></p>
 
-## Browse 2,824 internships by category
+## Browse 2,821 internships by category
 
-- 💻 [**Software Engineering**](README-Software-Engineering.md) (313)
+- 💻 [**Software Engineering**](README-Software-Engineering.md) (312)
 - ⚙️ [**Operations & Management**](README-Operations-Management.md) (146)
 - 📣 [**Marketing & Content**](README-Marketing-Content.md) (196)
 - 🔧 [**Hardware Engineering**](README-Hardware-Engineering.md) (136)
 - 💰 [**Finance & Accounting**](README-Finance-Accounting.md) (194)
-- 🗂 [**Other**](README-Other.md) (1,839)
+- 🗂 [**Other**](README-Other.md) (1,837)
 
 ## Internships in Europe
 
-[![open internships](https://img.shields.io/badge/open_internships-12%2C508-1d5a91)](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) [![updated](https://img.shields.io/github/last-commit/Likeremote-com-1-4M-job-board/Internships-Europe?label=updated&color=1f7a3a)](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) [![stars](https://img.shields.io/github/stars/Likeremote-com-1-4M-job-board/Internships-Europe?label=stars&color=2b3b48)](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-europe)
+[![open internships](https://img.shields.io/badge/open_internships-12%2C469-1d5a91)](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) [![updated](https://img.shields.io/github/last-commit/Likeremote-com-1-4M-job-board/Internships-Europe?label=updated&color=1f7a3a)](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) [![stars](https://img.shields.io/github/stars/Likeremote-com-1-4M-job-board/Internships-Europe?label=stars&color=2b3b48)](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-europe)
 
 Every internship in the UK, Germany and the rest of the EU that we find in 1.4M live jobs, in every industry, newest first. This list updates by itself every 6 hours.
 
@@ -33,7 +33,7 @@ Press **Apply** to open the job on likeremote.com. In the US? See [Internships-U
 
 ## 🇬🇧 United Kingdom
 
-Showing the newest 499 of 961; the full list is in [listings.json](listings.json).
+Showing the newest 499 of 958; the full list is in [listings.json](listings.json).
 
 | Company | Role | Location | Salary | Work mode | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |

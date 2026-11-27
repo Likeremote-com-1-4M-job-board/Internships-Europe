@@ -4,11 +4,11 @@
 
 💻 [Software Engineering](README-Software-Engineering.md) · ⚙️ [Operations & Management](README-Operations-Management.md) · 📣 [Marketing & Content](README-Marketing-Content.md) · 🔧 [Hardware Engineering](README-Hardware-Engineering.md) · 💰 [Finance & Accounting](README-Finance-Accounting.md) · 🗂 **Other**
 
-1,839 open internships in this category. Press **Apply** to open the job on likeremote.com. This list updates by itself every 6 hours.
+1,837 open internships in this category. Press **Apply** to open the job on likeremote.com. This list updates by itself every 6 hours.
 
 ## 🇬🇧 United Kingdom
 
-Showing the newest 511 of 567; the full list is in [listings.json](listings.json).
+Showing the newest 511 of 565; the full list is in [listings.json](listings.json).
 
 | Company | Role | Location | Salary | Work mode | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |

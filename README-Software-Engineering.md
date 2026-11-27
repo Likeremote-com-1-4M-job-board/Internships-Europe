@@ -4,7 +4,7 @@
 
 💻 **Software Engineering** · ⚙️ [Operations & Management](README-Operations-Management.md) · 📣 [Marketing & Content](README-Marketing-Content.md) · 🔧 [Hardware Engineering](README-Hardware-Engineering.md) · 💰 [Finance & Accounting](README-Finance-Accounting.md) · 🗂 [Other](README-Other.md)
 
-313 open internships in this category. Press **Apply** to open the job on likeremote.com. This list updates by itself every 6 hours.
+312 open internships in this category. Press **Apply** to open the job on likeremote.com. This list updates by itself every 6 hours.
 
 ## 🇬🇧 United Kingdom
 
@@ -140,7 +140,6 @@
 | **Cambridge<br>Consultants** | Software Engineering Internship (2027 start) | 🇬🇧 United Kingdom | — | On-site | Oct 1 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/software-engineering-internship-2027-start-d71b1419?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Cambridge<br>Consultants** | Cloud Software Engineering Internship (2027 start) | 🇬🇧 United Kingdom | — | On-site | Oct 1 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/cloud-software-engineering-internship-2027-start-8afd084f?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **SEL Engineering<br>Services, Inc.** | Application Engineering Intern | 🇬🇧 United Kingdom | — | On-site | Sep 30 | 🔒 |
-| **Keenfinity** | Software Engineering Intern | 🇬🇧 United Kingdom | $25–27 | On-site | Sep 28 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/s-com-keenfinity-744000152241469-software-engineering-intern-81ad0ab5?utm_source=github&utm_medium=readme&utm_campaign=internships-europe) |
 | **Pinnacle<br>Engineering Group** | Civil Engineer Intern | 🇬🇧 United Kingdom | — | On-site | Sep 28 | 🔒 |
 | **Pinnacle<br>Engineering Group** | Civil Engineer Intern | 🇬🇧 United Kingdom | — | On-site | Sep 28 | 🔒 |
 | **NatWest Group** | Engineering - Internship | 🇬🇧 United Kingdom | — | On-site | Sep 28 | 🔒 |
